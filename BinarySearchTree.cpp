@@ -7,4 +7,10 @@ public:
     int info;
     Node *leaftchild;
     Node *rightchild;
+
+    // Contruktor untuk class node
+    Node()
+    {
+
+    }
 };
