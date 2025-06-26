@@ -28,6 +28,10 @@ public:
 
     void insert()
     {
+        int x;
+        cout << "Masukan nilai: ";
+        cin >> x;
+
         
     }
 };
