@@ -32,6 +32,7 @@ public:
         cout << "Masukan nilai: ";
         cin >> x;
 
-        
+        // Step 1: Mengalokasikan memori untuk new node
+        Node *newNode = new Node();
     }
 };
