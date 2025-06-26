@@ -76,6 +76,10 @@ public:
             // 7b : Exit
             return;
         }
+    }
 
+    void search(int elemnt, Node *&parent, Node *&currentNode)
+    {
+        
     }
 };
