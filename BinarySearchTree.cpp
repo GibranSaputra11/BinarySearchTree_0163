@@ -11,7 +11,12 @@ public:
     // Contruktor untuk class node
     Node()
     {
-        leftchild = nullopt; // Initialize left child to null
-        rightchild = nullopt; // Initialize right child to null
+        leftchild = nullptr; // Initialize left child to null
+        rightchild = nullptr; // Initialize right child to null
     }
+};
+
+class BinaryTree
+{
+
 };
